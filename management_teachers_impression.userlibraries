@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: javax.servlet:javax.servlet-api:4.0.1">
+    <archive path="/home/omartriki/.m2/repository/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar" />
+  </library>
+  <library name="Maven: mysql:mysql-connector-java:8.0.29">
+    <archive path="/home/omartriki/.m2/repository/mysql/mysql-connector-java/8.0.29/mysql-connector-java-8.0.29.jar" />
+  </library>
+  <library name="Maven: taglibs:standard:1.1.2">
+    <archive path="/home/omartriki/.m2/repository/taglibs/standard/1.1.2/standard-1.1.2.jar" />
+  </library>
+  <library name="Maven: com.google.protobuf:protobuf-java:3.19.4">
+    <archive path="/home/omartriki/.m2/repository/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.jar" />
+  </library>
+  <library name="Maven: ognl:ognl:3.1.26">
+    <archive path="/home/omartriki/.m2/repository/ognl/ognl/3.1.26/ognl-3.1.26.jar" />
+  </library>
+  <library name="Maven: org.javassist:javassist:3.20.0-GA">
+    <archive path="/home/omartriki/.m2/repository/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.jar" />
+  </library>
+  <library name="Maven: org.attoparser:attoparser:2.0.5.RELEASE">
+    <archive path="/home/omartriki/.m2/repository/org/attoparser/attoparser/2.0.5.RELEASE/attoparser-2.0.5.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.unbescape:unbescape:1.1.6.RELEASE">
+    <archive path="/home/omartriki/.m2/repository/org/unbescape/unbescape/1.1.6.RELEASE/unbescape-1.1.6.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-api:1.7.25">
+    <archive path="/home/omartriki/.m2/repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-api:5.8.2">
+    <archive path="/home/omartriki/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.2/junit-jupiter-api-5.8.2.jar" />
+  </library>
+  <library name="Maven: org.opentest4j:opentest4j:1.2.0">
+    <archive path="/home/omartriki/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-commons:1.8.2">
+    <archive path="/home/omartriki/.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar" />
+  </library>
+  <library name="Maven: org.apiguardian:apiguardian-api:1.1.2">
+    <archive path="/home/omartriki/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-engine:5.8.2">
+    <archive path="/home/omartriki/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-engine:1.8.2">
+    <archive path="/home/omartriki/.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar" />
+  </library>
+  <library name="Maven: jstl:jstl:1.2">
+    <archive path="/home/omartriki/.m2/repository/jstl/jstl/1.2/jstl-1.2.jar" />
+  </library>
+  <library name="Maven: org.projectlombok:lombok:1.18.24">
+    <archive path="/home/omartriki/.m2/repository/org/projectlombok/lombok/1.18.24/lombok-1.18.24.jar" />
+  </library>
+  <library name="Maven: org.thymeleaf:thymeleaf:3.0.15.RELEASE">
+    <archive path="/home/omartriki/.m2/repository/org/thymeleaf/thymeleaf/3.0.15.RELEASE/thymeleaf-3.0.15.RELEASE.jar" />
+  </library>
+</eclipse-userlibraries>
+
